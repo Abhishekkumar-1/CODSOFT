@@ -1,6 +1,6 @@
 
 
-# **Smoothie Recipe Landing Page Project**
+# **TASK 1: Smoothie Recipe Landing Page Project**
 
 ### **Overview**
 Welcome to the Smoothie Recipe Landing Page project! This is an ideal web development project for beginners, providing a hands-on experience in creating a simple yet visually appealing landing page for a smoothie recipe site. By undertaking this project, you will enhance your understanding of HTML and CSS, as well as gain practical knowledge in structuring web pages, handling styling elements, and designing user-friendly interfaces.
@@ -40,3 +40,49 @@ Creativity and Personal Touch:
 Experiment with unique design elements and add your personal touch to make the landing page stand out.
 
 ![Landing Page](https://github.com/Abhishekkumar-1/CODSOFT/assets/105112878/5c22c8e3-97c1-4fa3-9feb-49c994105bdb)
+
+# **TASK 2:Portfolio**
+Welcome to my portfolio repository! This project serves as an introduction to my skills, experiences, and projects, providing an overview of who I am as a professional.
+
+### **Table of Contents**
+About Me
+Skills
+Projects
+Resume
+Contact
+Footer
+
+
+### **About Me**
+I am Abhishek Kumar, a passionate and results-driven Web Application Developer. With a focus on Full Stack Developer, I bring creativity and dedication to every project. My journey in Web Application Developement has equipped me with valuable skills, and my commitment to continuous learning propels me forward.
+
+### **Skills**
+Computer Languages: C++ | Java |
+Python
+Web Technologies: HTML | CSS |JavaScript | Typescript
+Database: MySQL | MongoDB | Redis
+Frameworks: ReactJS | Next JS | Flutter
+Backend: Node JS | PHP
+Networking | DSA | System Design |Database Management | Prompt Engineering
+
+![Portfolioscr](https://github.com/Abhishekkumar-1/CODSOFT/assets/105112878/2a5b3e59-bb43-49ca-a056-f75cbe3fbb42)
+
+# ** TASK 3:Calculator**
+
+Welcome to the Calculator Website project! This simple web application allows users to perform basic arithmetic calculations using a user-friendly interface.
+
+### **Features**
+Addition, subtraction, multiplication, and division operations
+Interactive buttons for numerical input
+Display screen to show user input and results
+Responsive design using CSS grid system for button alignments
+
+### **Technologies Used**
+HTML
+CSS
+JavaScript
+
+![Calculator](https://github.com/Abhishekkumar-1/CODSOFT/assets/105112878/8c27844e-b937-4a4e-81ca-a43dea31fb05)
+
+
+
