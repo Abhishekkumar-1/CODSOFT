@@ -1,14 +1,14 @@
 
 
-#Smoothie Recipe Landing Page Project
+# **Smoothie Recipe Landing Page Project**
 
-Overview
+### **Overview**
 Welcome to the Smoothie Recipe Landing Page project! This is an ideal web development project for beginners, providing a hands-on experience in creating a simple yet visually appealing landing page for a smoothie recipe site. By undertaking this project, you will enhance your understanding of HTML and CSS, as well as gain practical knowledge in structuring web pages, handling styling elements, and designing user-friendly interfaces.
 
-Project Description
+### **Project Description**
 In this project, you will create a landing page for a smoothie recipe site. The goal is to build a visually attractive and user-friendly webpage that showcases various smoothie recipes. This project is designed to reinforce your basic knowledge of HTML and CSS while encouraging you to unleash your creativity in the design process.
 
-Key Learning Objectives
+### **Key Learning Objectives**
 HTML Fundamentals: Practice creating HTML elements, structuring the document, and organizing content effectively.
 
 CSS Styling: Gain experience in styling your webpage, focusing on alignments, padding, color palette, and other essential styling elements.
@@ -19,7 +19,7 @@ Creativity: Use this project as an opportunity to showcase your creativity in de
 
 User-Friendly Design: Pay attention to user experience by ensuring your design is intuitive, easy to navigate, and visually pleasing.
 
-Project Guidelines
+### **Project Guidelines**
 HTML Structure:
 
 Use semantic HTML elements to structure your webpage logically.
