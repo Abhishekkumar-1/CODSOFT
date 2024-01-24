@@ -38,3 +38,5 @@ Make your landing page responsive by using media queries to adapt to different s
 Creativity and Personal Touch:
 
 Experiment with unique design elements and add your personal touch to make the landing page stand out.
+
+![Landing Page](https://github.com/Abhishekkumar-1/CODSOFT/assets/105112878/5c22c8e3-97c1-4fa3-9feb-49c994105bdb)
