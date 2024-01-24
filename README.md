@@ -67,7 +67,7 @@ Networking | DSA | System Design |Database Management | Prompt Engineering
 
 ![Portfolioscr](https://github.com/Abhishekkumar-1/CODSOFT/assets/105112878/2a5b3e59-bb43-49ca-a056-f75cbe3fbb42)
 
-# ** TASK 3:Calculator**
+# **TASK 3:Calculator**
 
 Welcome to the Calculator Website project! This simple web application allows users to perform basic arithmetic calculations using a user-friendly interface.
 
